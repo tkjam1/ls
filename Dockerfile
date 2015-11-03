@@ -1,4 +1,4 @@
 FROM ubuntu
-MAINTAINER Docker Education Team <education@docker.com>
+MAINTAINER Toby Mosby <tkjam1@msn.com>
 
 ENTRYPOINT [ "/bin/ls" ]
